@@ -1,0 +1,247 @@
+{
+  "/AulaDocusaurus/__docusaurus/debug-990": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-docusaurus-debug-300-3d0"
+    }
+  },
+  "/AulaDocusaurus/__docusaurus/debug/config-ace": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-docusaurus-debug-300-3d0"
+    }
+  },
+  "/AulaDocusaurus/__docusaurus/debug/content-821": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-docusaurus-debug-300-3d0"
+    },
+    "allContent": "allContent---aula-docusaurus-docusaurus-debug-content-246-cc1"
+  },
+  "/AulaDocusaurus/__docusaurus/debug/globalData-232": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-docusaurus-debug-300-3d0"
+    }
+  },
+  "/AulaDocusaurus/__docusaurus/debug/metadata-e70": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-docusaurus-debug-300-3d0"
+    }
+  },
+  "/AulaDocusaurus/__docusaurus/debug/registry-660": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-docusaurus-debug-300-3d0"
+    }
+  },
+  "/AulaDocusaurus/__docusaurus/debug/routes-741": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-docusaurus-debug-300-3d0"
+    }
+  },
+  "/AulaDocusaurus/blog-891": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-blog-3-f-8-b03"
+    },
+    "sidebar": "sidebar---aula-docusaurus-blog-814-9de",
+    "items": [
+      {
+        "content": "content---aula-docusaurus-blog-766-7c0"
+      },
+      {
+        "content": "content---aula-docusaurus-blogf-4-f-cb8"
+      },
+      {
+        "content": "content---aula-docusaurus-blog-871-23b"
+      },
+      {
+        "content": "content---aula-docusaurus-blog-925-ad0"
+      }
+    ],
+    "metadata": "metadata---aula-docusaurus-blog-5-c-4-ad6"
+  },
+  "/AulaDocusaurus/blog/archive-82f": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-blog-3-f-8-b03"
+    },
+    "archive": "archive---aula-docusaurus-blog-archive-317-278"
+  },
+  "/AulaDocusaurus/blog/first-blog-post-0ac": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-blog-3-f-8-b03"
+    },
+    "sidebar": "sidebar---aula-docusaurus-blog-814-9de",
+    "content": "content---aula-docusaurus-blog-first-blog-poste-27-bfb"
+  },
+  "/AulaDocusaurus/blog/long-blog-post-29c": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-blog-3-f-8-b03"
+    },
+    "sidebar": "sidebar---aula-docusaurus-blog-814-9de",
+    "content": "content---aula-docusaurus-blog-long-blog-post-736-8a3"
+  },
+  "/AulaDocusaurus/blog/mdx-blog-post-143": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-blog-3-f-8-b03"
+    },
+    "sidebar": "sidebar---aula-docusaurus-blog-814-9de",
+    "content": "content---aula-docusaurus-blog-mdx-blog-post-593-79a"
+  },
+  "/AulaDocusaurus/blog/tags-9f0": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-blog-3-f-8-b03"
+    },
+    "sidebar": "sidebar---aula-docusaurus-blog-814-9de",
+    "tags": "tags---aula-docusaurus-blog-tags-8-b-3-6ed"
+  },
+  "/AulaDocusaurus/blog/tags/docusaurus-b37": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-blog-3-f-8-b03"
+    },
+    "sidebar": "sidebar---aula-docusaurus-blog-814-9de",
+    "items": [
+      {
+        "content": "content---aula-docusaurus-blog-766-7c0"
+      },
+      {
+        "content": "content---aula-docusaurus-blogf-4-f-cb8"
+      },
+      {
+        "content": "content---aula-docusaurus-blog-871-23b"
+      },
+      {
+        "content": "content---aula-docusaurus-blog-925-ad0"
+      }
+    ],
+    "tag": "tag---aula-docusaurus-blog-tags-docusaurus-122-3b2",
+    "listMetadata": "listMetadata---aula-docusaurus-blog-tags-docusaurus-27-b-01b"
+  },
+  "/AulaDocusaurus/blog/tags/facebook-2c6": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-blog-3-f-8-b03"
+    },
+    "sidebar": "sidebar---aula-docusaurus-blog-814-9de",
+    "items": [
+      {
+        "content": "content---aula-docusaurus-blog-766-7c0"
+      }
+    ],
+    "tag": "tag---aula-docusaurus-blog-tags-facebook-4-c-5-2a4",
+    "listMetadata": "listMetadata---aula-docusaurus-blog-tags-facebook-199-9fd"
+  },
+  "/AulaDocusaurus/blog/tags/hello-f41": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-blog-3-f-8-b03"
+    },
+    "sidebar": "sidebar---aula-docusaurus-blog-814-9de",
+    "items": [
+      {
+        "content": "content---aula-docusaurus-blog-766-7c0"
+      },
+      {
+        "content": "content---aula-docusaurus-blog-871-23b"
+      }
+    ],
+    "tag": "tag---aula-docusaurus-blog-tags-hello-2-ed-07f",
+    "listMetadata": "listMetadata---aula-docusaurus-blog-tags-hello-2-b-6-bc2"
+  },
+  "/AulaDocusaurus/blog/tags/hola-3ed": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-blog-3-f-8-b03"
+    },
+    "sidebar": "sidebar---aula-docusaurus-blog-814-9de",
+    "items": [
+      {
+        "content": "content---aula-docusaurus-blog-925-ad0"
+      }
+    ],
+    "tag": "tag---aula-docusaurus-blog-tags-hola-8-f-2-a19",
+    "listMetadata": "listMetadata---aula-docusaurus-blog-tags-holae-4-b-3e5"
+  },
+  "/AulaDocusaurus/blog/welcome-18b": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-blog-3-f-8-b03"
+    },
+    "sidebar": "sidebar---aula-docusaurus-blog-814-9de",
+    "content": "content---aula-docusaurus-blog-welcomed-9-f-3b5"
+  },
+  "/AulaDocusaurus/markdown-page-abb": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-markdown-page-44-b-527"
+    },
+    "content": "content---aula-docusaurus-markdown-page-393-4d3"
+  },
+  "/AulaDocusaurus/docs-6e9": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-docs-5-a-6-590"
+    },
+    "versionMetadata": "versionMetadata---aula-docusaurus-docs-935-d42"
+  },
+  "/AulaDocusaurus/docs/category/tutorial---basics-0a9": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---aula-docusaurus-docs-category-tutorial-basicsfff-c61"
+  },
+  "/AulaDocusaurus/docs/category/tutorial---extras-3bd": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---aula-docusaurus-docs-category-tutorial-extras-20-d-871"
+  },
+  "/AulaDocusaurus/docs/intro-b6d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---aula-docusaurus-docs-intro-0-e-3-418"
+  },
+  "/AulaDocusaurus/docs/tutorial-basics/congratulations-4d0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---aula-docusaurus-docs-tutorial-basics-congratulations-822-c2f"
+  },
+  "/AulaDocusaurus/docs/tutorial-basics/create-a-blog-post-c5a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---aula-docusaurus-docs-tutorial-basics-create-a-blog-post-533-47b"
+  },
+  "/AulaDocusaurus/docs/tutorial-basics/create-a-document-024": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---aula-docusaurus-docs-tutorial-basics-create-a-document-1-e-4-416"
+  },
+  "/AulaDocusaurus/docs/tutorial-basics/create-a-page-512": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---aula-docusaurus-docs-tutorial-basics-create-a-page-5-c-8-ae5"
+  },
+  "/AulaDocusaurus/docs/tutorial-basics/deploy-your-site-d1f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---aula-docusaurus-docs-tutorial-basics-deploy-your-sitef-55-019"
+  },
+  "/AulaDocusaurus/docs/tutorial-basics/markdown-features-832": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---aula-docusaurus-docs-tutorial-basics-markdown-features-18-c-cd3"
+  },
+  "/AulaDocusaurus/docs/tutorial-extras/manage-docs-versions-6d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---aula-docusaurus-docs-tutorial-extras-manage-docs-versionsdff-82c"
+  },
+  "/AulaDocusaurus/docs/tutorial-extras/translate-your-site-6b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---aula-docusaurus-docs-tutorial-extras-translate-your-sitee-44-42e"
+  },
+  "/AulaDocusaurus/-1cb": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---aula-docusaurus-markdown-page-44-b-527"
+    },
+    "config": "config---aula-docusaurus-5-e-9-b74"
+  }
+}
